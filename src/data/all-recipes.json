@@ -1,0 +1,349 @@
+[
+    {
+      "id": "001",
+      "name": "Carrots with hummus",
+      "description": "This is a nice dish for the summer. Healthy and tasty.",
+      "img": "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fimg1.cookinglight.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fimage%2F2016%2F01%2Fmain%2F0909p113-hummus-carrots-x_0.jpg",
+      "ingredients": [
+        {
+          "id": "001",
+          "name": "carrot",
+          "quantity": 5,
+          "price": 4.50,
+          "diets": [
+            "vegan",
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        },
+        {
+          "id": "002",
+          "name": "tahini",
+          "quantity": 50,
+          "price": 2.25,
+          "diets": [
+            "vegan",
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        },
+        {
+          "id": "005",
+          "name": "chickpea",
+          "quantity": 500,
+          "price": 3.25,
+          "diets": [
+            "vegan",
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        },
+        {
+          "id": "010",
+          "name": "salt",
+          "quantity": 5,
+          "price": 0.25,
+          "diets": [
+            "vegan",
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        },
+        {
+          "id": "011",
+          "name": "lemon juice",
+          "quantity": 2,
+          "price": 0.5,
+          "diets": [
+            "vegan",
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "name": "Chocolate Cake",
+      "description": "Beautiful cake. So tasty! Wow!",
+      "img": "https://i.huffpost.com/gen/766148/images/o-CHOCOLATE-CAKE-facebook.jpg",
+      "ingredients": [
+        {
+          "id": "1009",
+          "name": "almonds",
+          "quantity": 40,
+          "price": 1.29,
+          "diets": [
+            "vegan",
+            "vegetarian",
+            "omnivore",
+            "pescetarian"
+          ]
+        },
+        {
+          "id": "100",
+          "name": "all-purpose flour",
+          "quantity": 256,
+          "price": 0.49,
+          "diets": [
+            "vegan",
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "nutfree"
+          ]
+        },
+        {
+          "id": "101",
+          "name": "sugar",
+          "quantity": 128,
+          "price": 2.0,
+          "diets": [
+            "vegetarian",
+            "vegan",
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        },
+        {
+          "id": "103",
+          "name": "milk",
+          "quantity": 245,
+          "price": 1.2,
+          "diets": [
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        },
+        {
+          "id": "104",
+          "name": "salt",
+          "quantity": 3,
+          "price": 0.25,
+          "diets": [
+            "vegan",
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        },
+        {
+          "id": "109",
+          "name": "baking cocoa",
+          "quantity": 86,
+          "price": 0.74,
+          "diets": [
+            "vegan",
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        },
+        {
+          "id": "110",
+          "name": "butter",
+          "quantity": 160,
+          "price": 1.12,
+          "diets": [
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        },
+        {
+          "id": "111",
+          "name": "eggs",
+          "quantity": 90,
+          "price": 1.1,
+          "diets": [
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        },
+        {
+          "id": "112",
+          "name": "baking soda",
+          "quantity": 15,
+          "price": 0.3,
+          "diets": [
+            "vegan",
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "003",
+      "name": "Lamb Stew",
+      "description": "A tasty stew with all sorts of flavors.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lamb-stew.jpg",
+      "ingredients": [
+        {
+          "id": "301",
+          "name": "bacon",
+          "quantity": 114,
+          "price": 2.21,
+          "diets": [
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        },
+        {
+          "id": "302",
+          "name": "boneless lamb",
+          "quantity": 900,
+          "price": 5.25,
+          "diets": [
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        },
+        {
+          "id": "303",
+          "name": "salt",
+          "quantity": 10,
+          "price": 0.15,
+          "diets": [
+            "vegan",
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        },
+        {
+          "id": "304",
+          "name": "black pepper",
+          "quantity": 10,
+          "price": 1.35,
+          "diets": [
+            "vegan",
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        },
+        {
+          "id": 305,
+          "name": "all purpose flour",
+          "quantity": 100,
+          "price": 1.25,
+          "diets": [
+            "vegan",
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "nutfree"
+          ]
+        },
+        {
+          "id": 306,
+          "name": "onion",
+          "quantity": 40,
+          "price": 2.14,
+          "diets": [
+            "vegan",
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        },
+        {
+          "id": 3071,
+          "name": "garlic",
+          "quantity": 75,
+          "price": 1,
+          "diets": [
+            "vegan",
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        },
+        {
+          "id": 307,
+          "name": "red wine",
+          "quantity": 40,
+          "price": 3.15,
+          "diets": [
+            "vegan",
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        },
+        {
+          "id": 308,
+          "name": "button mushrooms",
+          "quantity": 100,
+          "price": 2.85,
+          "diets": [
+            "vegan",
+            "vegetarian",
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        },
+        {
+          "id": 309,
+          "name": "beef broth",
+          "quantity": 50,
+          "price": 3.01,
+          "diets": [
+            "omnivore",
+            "pescetarian",
+            "gf",
+            "nutfree"
+          ]
+        }
+      ]
+    }
+  ]

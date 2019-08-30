@@ -1,0 +1,13 @@
+node_modules
+ncp-debug.log
+npm-debug.log
+bower_component
+src/config/configSec.js
+package-lock.json
+
+.DS_STORE
+node_modules
+*~
+.grunt
+.idea
+*.iml

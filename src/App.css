@@ -1,0 +1,58 @@
+.App {
+  background-color: #282c34;
+}
+
+.header {
+  text-align: center;
+  background: #fafbfc;
+}
+
+.footer {
+  text-align: center;
+  background: #fafbfc;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+}
+.full-width {
+  grid-column: 1 / 3;
+  grid-row: 1;
+}
+.recipe-wrapper {
+  width: 80%;
+  padding-left: 10%;
+}
+.logo {
+  padding: 1%;
+  height: 60px;
+  display: inline;
+}
+
+.recipeThumbnail {
+  width: 250px;
+}
+
+h5 {
+  text-transform: uppercase;
+}
+
+.search-box {
+  text-align: center;
+  background: #fafbfc;
+  margin: 4px;
+  padding: 2px;
+}
+
+.recipes-box {
+  background: #fafbfc;
+  margin: 4px;
+  padding: 2px;
+}
